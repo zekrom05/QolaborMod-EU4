@@ -1,0 +1,4 @@
+add_core = Z04
+owner = Z04
+controller = Z04
+is_city = no

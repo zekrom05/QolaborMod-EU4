@@ -1,0 +1,4 @@
+add_core = Z06
+owner = Z06
+controller = Z06
+is_city = no

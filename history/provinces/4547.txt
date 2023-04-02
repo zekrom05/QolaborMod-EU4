@@ -1,0 +1,5 @@
+culture = dagestani
+is_city = no
+add_core = Z02
+owner = Z02
+controller = Z02

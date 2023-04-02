@@ -1,0 +1,10 @@
+Z01 = "countries/Zarashdar.txt"
+Z02 = "countries/Dahkeshdar.txt"
+Z03 = "countries/United Realms.txt"
+Z04 = "countries/Kesilyaphon.txt"
+Z05 = "countries/Loqoushdar.txt"
+Z06 = "countries/Miqous.txt"
+Z07 = "countries/Zajibar.txt"
+Z08 = "countries/Gweshvan.txt"
+Z09 = "countries/Ilyaktesadvan.txt"
+

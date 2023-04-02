@@ -1,0 +1,11 @@
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+base_tax = 3
+base_manpower = 2
+base_production = 3
+culture = neapolitan
+trade_goods = wine
+religion = catholic
+is_city = yes

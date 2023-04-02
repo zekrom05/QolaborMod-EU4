@@ -1,0 +1,4 @@
+add_core = Z09
+owner = Z09
+controller = Z09
+is_city = no
